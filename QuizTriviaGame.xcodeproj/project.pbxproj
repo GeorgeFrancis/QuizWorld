@@ -1,0 +1,604 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1B95D5D818D8335A00F64C57 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B95D5D718D8335A00F64C57 /* iAd.framework */; };
+		1B973CEC18D7A4FC00D8756F /* categories.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B973CEB18D7A4FC00D8756F /* categories.png */; };
+		1B973CF018D7A52600D8756F /* correctBanner.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B973CEF18D7A52600D8756F /* correctBanner.png */; };
+		1B973CF218D7A53100D8756F /* wrongBanner.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B973CF118D7A53100D8756F /* wrongBanner.png */; };
+		1B973CF418D7A53E00D8756F /* gameOverBanner.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B973CF318D7A53E00D8756F /* gameOverBanner.png */; };
+		1B986A0C18D8D17D004A7288 /* Main iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B986A0A18D8D17D004A7288 /* Main iPad.storyboard */; };
+		1B98D49818B245040029334C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B98D49718B245040029334C /* Foundation.framework */; };
+		1B98D49A18B245040029334C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B98D49918B245040029334C /* CoreGraphics.framework */; };
+		1B98D49C18B245040029334C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B98D49B18B245040029334C /* UIKit.framework */; };
+		1B98D4A218B245040029334C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1B98D4A018B245040029334C /* InfoPlist.strings */; };
+		1B98D4A418B245040029334C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B98D4A318B245040029334C /* main.m */; };
+		1B98D4A818B245040029334C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B98D4A718B245040029334C /* AppDelegate.m */; };
+		1B98D4AB18B245040029334C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B98D4A918B245040029334C /* Main.storyboard */; };
+		1B98D4AE18B245040029334C /* StartMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B98D4AD18B245040029334C /* StartMenuViewController.m */; };
+		1B98D4B018B245040029334C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B98D4AF18B245040029334C /* Images.xcassets */; };
+		1B98D4B718B245040029334C /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B98D4B618B245040029334C /* XCTest.framework */; };
+		1B98D4B818B245040029334C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B98D49718B245040029334C /* Foundation.framework */; };
+		1B98D4B918B245040029334C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B98D49B18B245040029334C /* UIKit.framework */; };
+		1B98D4C118B245040029334C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1B98D4BF18B245040029334C /* InfoPlist.strings */; };
+		1B98D4C318B245040029334C /* QuizTriviaGameTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B98D4C218B245040029334C /* QuizTriviaGameTests.m */; };
+		1B98D4D118B2474E0029334C /* CategoriesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B98D4D018B2474E0029334C /* CategoriesViewController.m */; };
+		1B98D4D418B250C20029334C /* Game.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B98D4D318B250C20029334C /* Game.m */; };
+		1B9FB1B118DD664B002EE108 /* IPADcategories.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B9FB1AA18DD664B002EE108 /* IPADcategories.png */; };
+		1B9FB1B218DD664B002EE108 /* IPADcorrectBanner.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B9FB1AB18DD664B002EE108 /* IPADcorrectBanner.png */; };
+		1B9FB1B418DD664B002EE108 /* IPADgameoverBanner.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B9FB1AD18DD664B002EE108 /* IPADgameoverBanner.png */; };
+		1B9FB1B518DD664B002EE108 /* IPADloading.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B9FB1AE18DD664B002EE108 /* IPADloading.png */; };
+		1B9FB1B618DD664B002EE108 /* IPADMain.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B9FB1AF18DD664B002EE108 /* IPADMain.png */; };
+		1B9FB1B718DD664B002EE108 /* IPADwrongBanner.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B9FB1B018DD664B002EE108 /* IPADwrongBanner.png */; };
+		1B9FB1B918DD668D002EE108 /* Main.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B9FB1B818DD668D002EE108 /* Main.png */; };
+		1B9FB1BB18DD6ADA002EE108 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B9FB1BA18DD6ADA002EE108 /* Images.xcassets */; };
+		1B9FB1BD18DD6B19002EE108 /* IPHONEloading.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B9FB1BC18DD6B19002EE108 /* IPHONEloading.png */; };
+		1B9FB1BF18DD7611002EE108 /* IPADgame.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B9FB1BE18DD7611002EE108 /* IPADgame.png */; };
+		1B9FB1C118DD7623002EE108 /* game.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B9FB1C018DD7623002EE108 /* game.png */; };
+		1B9FB1C318DD762C002EE108 /* loading.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B9FB1C218DD762C002EE108 /* loading.png */; };
+		1B9FB1C618DD8FD1002EE108 /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B9FB1C518DD8FD1002EE108 /* MasterViewController.m */; };
+		1BB541F718C246420090166A /* QuestionsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BB541F618C246420090166A /* QuestionsViewController.m */; };
+		ABDD01D218C24C9600F96447 /* Question.m in Sources */ = {isa = PBXBuildFile; fileRef = ABDD01D118C24C9600F96447 /* Question.m */; };
+		ABDD01D418C24DF600F96447 /* Questions.plist in Resources */ = {isa = PBXBuildFile; fileRef = ABDD01D318C24DF600F96447 /* Questions.plist */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		1B98D4BA18B245040029334C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1B98D48C18B245040029334C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1B98D49318B245040029334C;
+			remoteInfo = QuizTriviaGame;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1B95D5D718D8335A00F64C57 /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
+		1B973CEB18D7A4FC00D8756F /* categories.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = categories.png; sourceTree = "<group>"; };
+		1B973CEF18D7A52600D8756F /* correctBanner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = correctBanner.png; sourceTree = "<group>"; };
+		1B973CF118D7A53100D8756F /* wrongBanner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wrongBanner.png; sourceTree = "<group>"; };
+		1B973CF318D7A53E00D8756F /* gameOverBanner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gameOverBanner.png; sourceTree = "<group>"; };
+		1B986A0B18D8D17D004A7288 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "Base.lproj/Main iPad.storyboard"; sourceTree = "<group>"; };
+		1B98D49418B245040029334C /* QuizTriviaGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuizTriviaGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1B98D49718B245040029334C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1B98D49918B245040029334C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		1B98D49B18B245040029334C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		1B98D49F18B245040029334C /* QuizTriviaGame-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "QuizTriviaGame-Info.plist"; sourceTree = "<group>"; };
+		1B98D4A118B245040029334C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1B98D4A318B245040029334C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1B98D4A518B245040029334C /* QuizTriviaGame-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "QuizTriviaGame-Prefix.pch"; sourceTree = "<group>"; };
+		1B98D4A618B245040029334C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		1B98D4A718B245040029334C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		1B98D4AA18B245040029334C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		1B98D4AC18B245040029334C /* StartMenuViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StartMenuViewController.h; sourceTree = "<group>"; };
+		1B98D4AD18B245040029334C /* StartMenuViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StartMenuViewController.m; sourceTree = "<group>"; };
+		1B98D4AF18B245040029334C /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		1B98D4B518B245040029334C /* QuizTriviaGameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuizTriviaGameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1B98D4B618B245040029334C /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		1B98D4BE18B245040029334C /* QuizTriviaGameTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "QuizTriviaGameTests-Info.plist"; sourceTree = "<group>"; };
+		1B98D4C018B245040029334C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1B98D4C218B245040029334C /* QuizTriviaGameTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QuizTriviaGameTests.m; sourceTree = "<group>"; };
+		1B98D4CF18B2474E0029334C /* CategoriesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CategoriesViewController.h; path = ../CategoriesViewController.h; sourceTree = "<group>"; };
+		1B98D4D018B2474E0029334C /* CategoriesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CategoriesViewController.m; path = ../CategoriesViewController.m; sourceTree = "<group>"; };
+		1B98D4D218B250C20029334C /* Game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Game.h; path = ../Game.h; sourceTree = "<group>"; };
+		1B98D4D318B250C20029334C /* Game.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Game.m; path = ../Game.m; sourceTree = "<group>"; };
+		1B9FB1AA18DD664B002EE108 /* IPADcategories.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IPADcategories.png; sourceTree = "<group>"; };
+		1B9FB1AB18DD664B002EE108 /* IPADcorrectBanner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IPADcorrectBanner.png; sourceTree = "<group>"; };
+		1B9FB1AD18DD664B002EE108 /* IPADgameoverBanner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IPADgameoverBanner.png; sourceTree = "<group>"; };
+		1B9FB1AE18DD664B002EE108 /* IPADloading.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IPADloading.png; sourceTree = "<group>"; };
+		1B9FB1AF18DD664B002EE108 /* IPADMain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IPADMain.png; sourceTree = "<group>"; };
+		1B9FB1B018DD664B002EE108 /* IPADwrongBanner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IPADwrongBanner.png; sourceTree = "<group>"; };
+		1B9FB1B818DD668D002EE108 /* Main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Main.png; sourceTree = "<group>"; };
+		1B9FB1BA18DD6ADA002EE108 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		1B9FB1BC18DD6B19002EE108 /* IPHONEloading.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IPHONEloading.png; sourceTree = "<group>"; };
+		1B9FB1BE18DD7611002EE108 /* IPADgame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IPADgame.png; sourceTree = "<group>"; };
+		1B9FB1C018DD7623002EE108 /* game.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = game.png; sourceTree = "<group>"; };
+		1B9FB1C218DD762C002EE108 /* loading.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loading.png; sourceTree = "<group>"; };
+		1B9FB1C418DD8FD1002EE108 /* MasterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MasterViewController.h; sourceTree = "<group>"; };
+		1B9FB1C518DD8FD1002EE108 /* MasterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
+		1BB541F518C246420090166A /* QuestionsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QuestionsViewController.h; sourceTree = "<group>"; };
+		1BB541F618C246420090166A /* QuestionsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuestionsViewController.m; sourceTree = "<group>"; };
+		ABDD01D018C24C9600F96447 /* Question.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Question.h; path = ../Question.h; sourceTree = "<group>"; };
+		ABDD01D118C24C9600F96447 /* Question.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Question.m; path = ../Question.m; sourceTree = "<group>"; };
+		ABDD01D318C24DF600F96447 /* Questions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Questions.plist; path = ../Questions.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1B98D49118B245040029334C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1B95D5D818D8335A00F64C57 /* iAd.framework in Frameworks */,
+				1B98D49A18B245040029334C /* CoreGraphics.framework in Frameworks */,
+				1B98D49C18B245040029334C /* UIKit.framework in Frameworks */,
+				1B98D49818B245040029334C /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1B98D4B218B245040029334C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1B98D4B718B245040029334C /* XCTest.framework in Frameworks */,
+				1B98D4B918B245040029334C /* UIKit.framework in Frameworks */,
+				1B98D4B818B245040029334C /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1B986A0918D8D0CA004A7288 /* iPad */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = iPad;
+			sourceTree = "<group>";
+		};
+		1B98D48B18B245040029334C = {
+			isa = PBXGroup;
+			children = (
+				1B9FB1BA18DD6ADA002EE108 /* Images.xcassets */,
+				1B98D49D18B245040029334C /* QuizTriviaGame */,
+				1B98D4BC18B245040029334C /* QuizTriviaGameTests */,
+				1B98D49618B245040029334C /* Frameworks */,
+				1B98D49518B245040029334C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1B98D49518B245040029334C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1B98D49418B245040029334C /* QuizTriviaGame.app */,
+				1B98D4B518B245040029334C /* QuizTriviaGameTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1B98D49618B245040029334C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1B95D5D718D8335A00F64C57 /* iAd.framework */,
+				1B98D49718B245040029334C /* Foundation.framework */,
+				1B98D49918B245040029334C /* CoreGraphics.framework */,
+				1B98D49B18B245040029334C /* UIKit.framework */,
+				1B98D4B618B245040029334C /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1B98D49D18B245040029334C /* QuizTriviaGame */ = {
+			isa = PBXGroup;
+			children = (
+				1B986A0918D8D0CA004A7288 /* iPad */,
+				1B98D4A618B245040029334C /* AppDelegate.h */,
+				1B98D4A718B245040029334C /* AppDelegate.m */,
+				1B98D4A918B245040029334C /* Main.storyboard */,
+				1B986A0A18D8D17D004A7288 /* Main iPad.storyboard */,
+				1B9FB1C418DD8FD1002EE108 /* MasterViewController.h */,
+				1B9FB1C518DD8FD1002EE108 /* MasterViewController.m */,
+				1B98D4AC18B245040029334C /* StartMenuViewController.h */,
+				1B98D4AD18B245040029334C /* StartMenuViewController.m */,
+				1B98D4CF18B2474E0029334C /* CategoriesViewController.h */,
+				1B98D4D018B2474E0029334C /* CategoriesViewController.m */,
+				1BB541F518C246420090166A /* QuestionsViewController.h */,
+				1BB541F618C246420090166A /* QuestionsViewController.m */,
+				1B98D4D218B250C20029334C /* Game.h */,
+				1B98D4D318B250C20029334C /* Game.m */,
+				ABDD01D018C24C9600F96447 /* Question.h */,
+				ABDD01D118C24C9600F96447 /* Question.m */,
+				ABDD01D318C24DF600F96447 /* Questions.plist */,
+				1B98D4AF18B245040029334C /* Images.xcassets */,
+				1B98D49E18B245040029334C /* Supporting Files */,
+			);
+			path = QuizTriviaGame;
+			sourceTree = "<group>";
+		};
+		1B98D49E18B245040029334C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1B9FB1C218DD762C002EE108 /* loading.png */,
+				1B9FB1C018DD7623002EE108 /* game.png */,
+				1B9FB1BE18DD7611002EE108 /* IPADgame.png */,
+				1B9FB1AA18DD664B002EE108 /* IPADcategories.png */,
+				1B9FB1AB18DD664B002EE108 /* IPADcorrectBanner.png */,
+				1B9FB1AD18DD664B002EE108 /* IPADgameoverBanner.png */,
+				1B9FB1AE18DD664B002EE108 /* IPADloading.png */,
+				1B9FB1AF18DD664B002EE108 /* IPADMain.png */,
+				1B9FB1B018DD664B002EE108 /* IPADwrongBanner.png */,
+				1B973CF318D7A53E00D8756F /* gameOverBanner.png */,
+				1B973CF118D7A53100D8756F /* wrongBanner.png */,
+				1B9FB1BC18DD6B19002EE108 /* IPHONEloading.png */,
+				1B973CEF18D7A52600D8756F /* correctBanner.png */,
+				1B9FB1B818DD668D002EE108 /* Main.png */,
+				1B973CEB18D7A4FC00D8756F /* categories.png */,
+				1B98D49F18B245040029334C /* QuizTriviaGame-Info.plist */,
+				1B98D4A018B245040029334C /* InfoPlist.strings */,
+				1B98D4A318B245040029334C /* main.m */,
+				1B98D4A518B245040029334C /* QuizTriviaGame-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1B98D4BC18B245040029334C /* QuizTriviaGameTests */ = {
+			isa = PBXGroup;
+			children = (
+				1B98D4C218B245040029334C /* QuizTriviaGameTests.m */,
+				1B98D4BD18B245040029334C /* Supporting Files */,
+			);
+			path = QuizTriviaGameTests;
+			sourceTree = "<group>";
+		};
+		1B98D4BD18B245040029334C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1B98D4BE18B245040029334C /* QuizTriviaGameTests-Info.plist */,
+				1B98D4BF18B245040029334C /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1B98D49318B245040029334C /* QuizTriviaGame */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1B98D4C618B245040029334C /* Build configuration list for PBXNativeTarget "QuizTriviaGame" */;
+			buildPhases = (
+				1B98D49018B245040029334C /* Sources */,
+				1B98D49118B245040029334C /* Frameworks */,
+				1B98D49218B245040029334C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = QuizTriviaGame;
+			productName = QuizTriviaGame;
+			productReference = 1B98D49418B245040029334C /* QuizTriviaGame.app */;
+			productType = "com.apple.product-type.application";
+		};
+		1B98D4B418B245040029334C /* QuizTriviaGameTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1B98D4C918B245040029334C /* Build configuration list for PBXNativeTarget "QuizTriviaGameTests" */;
+			buildPhases = (
+				1B98D4B118B245040029334C /* Sources */,
+				1B98D4B218B245040029334C /* Frameworks */,
+				1B98D4B318B245040029334C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1B98D4BB18B245040029334C /* PBXTargetDependency */,
+			);
+			name = QuizTriviaGameTests;
+			productName = QuizTriviaGameTests;
+			productReference = 1B98D4B518B245040029334C /* QuizTriviaGameTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1B98D48C18B245040029334C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "George Francis";
+				TargetAttributes = {
+					1B98D49318B245040029334C = {
+						DevelopmentTeam = RSWW858M46;
+					};
+					1B98D4B418B245040029334C = {
+						TestTargetID = 1B98D49318B245040029334C;
+					};
+				};
+			};
+			buildConfigurationList = 1B98D48F18B245040029334C /* Build configuration list for PBXProject "QuizTriviaGame" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1B98D48B18B245040029334C;
+			productRefGroup = 1B98D49518B245040029334C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1B98D49318B245040029334C /* QuizTriviaGame */,
+				1B98D4B418B245040029334C /* QuizTriviaGameTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1B98D49218B245040029334C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1B9FB1B918DD668D002EE108 /* Main.png in Resources */,
+				1B9FB1C118DD7623002EE108 /* game.png in Resources */,
+				1B9FB1B218DD664B002EE108 /* IPADcorrectBanner.png in Resources */,
+				ABDD01D418C24DF600F96447 /* Questions.plist in Resources */,
+				1B986A0C18D8D17D004A7288 /* Main iPad.storyboard in Resources */,
+				1B98D4B018B245040029334C /* Images.xcassets in Resources */,
+				1B9FB1C318DD762C002EE108 /* loading.png in Resources */,
+				1B9FB1BD18DD6B19002EE108 /* IPHONEloading.png in Resources */,
+				1B973CEC18D7A4FC00D8756F /* categories.png in Resources */,
+				1B9FB1B118DD664B002EE108 /* IPADcategories.png in Resources */,
+				1B973CF018D7A52600D8756F /* correctBanner.png in Resources */,
+				1B9FB1B418DD664B002EE108 /* IPADgameoverBanner.png in Resources */,
+				1B9FB1B718DD664B002EE108 /* IPADwrongBanner.png in Resources */,
+				1B98D4A218B245040029334C /* InfoPlist.strings in Resources */,
+				1B9FB1B618DD664B002EE108 /* IPADMain.png in Resources */,
+				1B973CF418D7A53E00D8756F /* gameOverBanner.png in Resources */,
+				1B9FB1BB18DD6ADA002EE108 /* Images.xcassets in Resources */,
+				1B973CF218D7A53100D8756F /* wrongBanner.png in Resources */,
+				1B9FB1B518DD664B002EE108 /* IPADloading.png in Resources */,
+				1B98D4AB18B245040029334C /* Main.storyboard in Resources */,
+				1B9FB1BF18DD7611002EE108 /* IPADgame.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1B98D4B318B245040029334C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1B98D4C118B245040029334C /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1B98D49018B245040029334C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1BB541F718C246420090166A /* QuestionsViewController.m in Sources */,
+				1B98D4D418B250C20029334C /* Game.m in Sources */,
+				1B98D4AE18B245040029334C /* StartMenuViewController.m in Sources */,
+				1B98D4D118B2474E0029334C /* CategoriesViewController.m in Sources */,
+				1B9FB1C618DD8FD1002EE108 /* MasterViewController.m in Sources */,
+				ABDD01D218C24C9600F96447 /* Question.m in Sources */,
+				1B98D4A818B245040029334C /* AppDelegate.m in Sources */,
+				1B98D4A418B245040029334C /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1B98D4B118B245040029334C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1B98D4C318B245040029334C /* QuizTriviaGameTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		1B98D4BB18B245040029334C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1B98D49318B245040029334C /* QuizTriviaGame */;
+			targetProxy = 1B98D4BA18B245040029334C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		1B986A0A18D8D17D004A7288 /* Main iPad.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1B986A0B18D8D17D004A7288 /* Base */,
+			);
+			name = "Main iPad.storyboard";
+			sourceTree = "<group>";
+		};
+		1B98D4A018B245040029334C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1B98D4A118B245040029334C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		1B98D4A918B245040029334C /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1B98D4AA18B245040029334C /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		1B98D4BF18B245040029334C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1B98D4C018B245040029334C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1B98D4C418B245040029334C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		1B98D4C518B245040029334C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1B98D4C718B245040029334C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "QuizTriviaGame/QuizTriviaGame-Prefix.pch";
+				INFOPLIST_FILE = "QuizTriviaGame/QuizTriviaGame-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		1B98D4C818B245040029334C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "QuizTriviaGame/QuizTriviaGame-Prefix.pch";
+				INFOPLIST_FILE = "QuizTriviaGame/QuizTriviaGame-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		1B98D4CA18B245040029334C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/QuizTriviaGame.app/QuizTriviaGame";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "QuizTriviaGame/QuizTriviaGame-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "QuizTriviaGameTests/QuizTriviaGameTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		1B98D4CB18B245040029334C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/QuizTriviaGame.app/QuizTriviaGame";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "QuizTriviaGame/QuizTriviaGame-Prefix.pch";
+				INFOPLIST_FILE = "QuizTriviaGameTests/QuizTriviaGameTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1B98D48F18B245040029334C /* Build configuration list for PBXProject "QuizTriviaGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1B98D4C418B245040029334C /* Debug */,
+				1B98D4C518B245040029334C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1B98D4C618B245040029334C /* Build configuration list for PBXNativeTarget "QuizTriviaGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1B98D4C718B245040029334C /* Debug */,
+				1B98D4C818B245040029334C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1B98D4C918B245040029334C /* Build configuration list for PBXNativeTarget "QuizTriviaGameTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1B98D4CA18B245040029334C /* Debug */,
+				1B98D4CB18B245040029334C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1B98D48C18B245040029334C /* Project object */;
+}

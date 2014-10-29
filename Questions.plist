@@ -1,0 +1,3222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>questionItself</key>
+		<string> Which of the following rivers was once known as the Zaire River?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>The Mekong</string>
+		<key>answer2</key>
+		<string>The Niger</string>
+		<key>answer3</key>
+		<string>The Nile</string>
+		<key>answer4</key>
+		<string>The Congo</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string> Which event in history was the subject of the 1955 book by Walter Lord, A Night To Remember?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string> The attack on Pearl Harbour</string>
+		<key>answer2</key>
+		<string> The Salem witch trials</string>
+		<key>answer3</key>
+		<string> The sinking of the Titanic</string>
+		<key>answer4</key>
+		<string>The St. Valentine&apos;s Day Massacre</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What was the first name of the British Prime Minister Gladstone?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>William</string>
+		<key>answer2</key>
+		<string>Walter</string>
+		<key>answer3</key>
+		<string>Wesley</string>
+		<key>answer4</key>
+		<string>Warren</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Artist Pablo Picasso was born in 1881 in which country?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Spain</string>
+		<key>answer2</key>
+		<string>Mexico</string>
+		<key>answer3</key>
+		<string>Italy</string>
+		<key>answer4</key>
+		<string>France</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Tim Berners-Lee is best known for inventing what?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>CD Player</string>
+		<key>answer2</key>
+		<string>Microwave Oven</string>
+		<key>answer3</key>
+		<string>The Internet</string>
+		<key>answer4</key>
+		<string>LCD TV</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In what year did America officially enter World War II?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>1942</string>
+		<key>answer2</key>
+		<string>1941</string>
+		<key>answer3</key>
+		<string>1943</string>
+		<key>answer4</key>
+		<string>1946</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Bob Hawke was Prime Minister of which country between 1983 and 1991?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Canada</string>
+		<key>answer2</key>
+		<string>South Africa</string>
+		<key>answer3</key>
+		<string>New Zealand</string>
+		<key>answer4</key>
+		<string>Australia</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which of the following did not study at university?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Prince Charles</string>
+		<key>answer2</key>
+		<string>Prince Harry</string>
+		<key>answer3</key>
+		<string>Prince Edward</string>
+		<key>answer4</key>
+		<string>Prince Andrew</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>For what crime was Al Capone convicted and jailed in 1931?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Manslaughter</string>
+		<key>answer2</key>
+		<string>Tax Evasion</string>
+		<key>answer3</key>
+		<string>Murder</string>
+		<key>answer4</key>
+		<string>Theft</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which U.S. state was John F. Kennedy assassinated?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Arizona</string>
+		<key>answer2</key>
+		<string>California</string>
+		<key>answer3</key>
+		<string>South Carolina</string>
+		<key>answer4</key>
+		<string>Texas</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>The Battle of Goose Green took part during which war?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>World War 1</string>
+		<key>answer2</key>
+		<string>The Vietnam War</string>
+		<key>answer3</key>
+		<string>The Falklands War</string>
+		<key>answer4</key>
+		<string>World War 2</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What was the surname of brothers Orville and Wilbur, famous for inventing the airplane?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Grimm</string>
+		<key>answer2</key>
+		<string>Jameson</string>
+		<key>answer3</key>
+		<string>Wright</string>
+		<key>answer4</key>
+		<string>Franklin</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which decade did Elvis Presley die?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>1950&apos;s</string>
+		<key>answer2</key>
+		<string>1960&apos;s</string>
+		<key>answer3</key>
+		<string>1970&apos;s</string>
+		<key>answer4</key>
+		<string>1980&apos;s</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What nickname was given to the serial killer David Berkowitz?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Son of Sin</string>
+		<key>answer2</key>
+		<string>Son of Sam</string>
+		<key>answer3</key>
+		<string>Son of Satin</string>
+		<key>answer4</key>
+		<string>Son of Soul</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Who shot and killed Lee Harvey Oswald in 1963, shortly after the assassination of John F. Kennedy?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Jack Ruby</string>
+		<key>answer2</key>
+		<string>Jack Diamond</string>
+		<key>answer3</key>
+		<string>Jack Justin</string>
+		<key>answer4</key>
+		<string>Jack Orval</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Caledonia was the Roman name for which country?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Scotland</string>
+		<key>answer2</key>
+		<string>England</string>
+		<key>answer3</key>
+		<string>Wales</string>
+		<key>answer4</key>
+		<string>Ireland</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What was the country of Siam renamed to in 1949?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>South Korea</string>
+		<key>answer2</key>
+		<string>Cambodia</string>
+		<key>answer3</key>
+		<string>Loas</string>
+		<key>answer4</key>
+		<string>Thailand</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which decade was the one pound coin introduced into circulation by the Bank of England?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>1990&apos;s</string>
+		<key>answer2</key>
+		<string>1980&apos;s</string>
+		<key>answer3</key>
+		<string>1960&apos;s</string>
+		<key>answer4</key>
+		<string>1950&apos;s</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In the 19th century, who wrote The Origin Of Species?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>James Cook</string>
+		<key>answer2</key>
+		<string>Charles Darwin</string>
+		<key>answer3</key>
+		<string>Walter Raleigh</string>
+		<key>answer4</key>
+		<string>Steve Lando</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which year of the 1960s did the Great Train Robbery take place?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>1963</string>
+		<key>answer2</key>
+		<string>1961</string>
+		<key>answer3</key>
+		<string>1964</string>
+		<key>answer4</key>
+		<string>1978</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which of the following did William Booth found in 1865?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>The Quakers</string>
+		<key>answer2</key>
+		<string>The Salvation Army</string>
+		<key>answer3</key>
+		<string>The Red Cross</string>
+		<key>answer4</key>
+		<string>Oxfam</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Born in 1867, by what name was Harry Longabaugh better known?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Butch Caddisdy</string>
+		<key>answer2</key>
+		<string>Evil Knievel</string>
+		<key>answer3</key>
+		<string>The Sundance Kid</string>
+		<key>answer4</key>
+		<string>Hapalong Cassidy</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which French city was Joan of Arc burnt at the stake?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Limoges</string>
+		<key>answer2</key>
+		<string>Rouen</string>
+		<key>answer3</key>
+		<string>Amiens</string>
+		<key>answer4</key>
+		<string>Châteauroux</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string> In which century did Joan of Arc live?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>13th</string>
+		<key>answer2</key>
+		<string>14th</string>
+		<key>answer3</key>
+		<string>15th</string>
+		<key>answer4</key>
+		<string>16th</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What was the codename of the atomic bomb dropped by the U.S. Army Air Force on Hiroshima in 1945?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Silent boy</string>
+		<key>answer2</key>
+		<string>Silent man</string>
+		<key>answer3</key>
+		<string>Little man</string>
+		<key>answer4</key>
+		<string>Little boy</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What were the first names of the Montgolfier brothers, famous for inventing the hot air balloon?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string> Paul and Pierre-Étienne</string>
+		<key>answer2</key>
+		<string>Charles and Cédric-Étienne</string>
+		<key>answer3</key>
+		<string>Joseph and Jacques-Étienne</string>
+		<key>answer4</key>
+		<string>Basil and Bruno-Étienne</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In what year was Leonard da Vinci born?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>1492</string>
+		<key>answer2</key>
+		<string>1452</string>
+		<key>answer3</key>
+		<string>1536</string>
+		<key>answer4</key>
+		<string>1567</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What was Al Capone&apos;s first name?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Alphonsis</string>
+		<key>answer2</key>
+		<string>Alphonse</string>
+		<key>answer3</key>
+		<string>Alphonsa</string>
+		<key>answer4</key>
+		<string>Alphonsi</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What was Mother Theresa&apos;s real first name?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Amy</string>
+		<key>answer2</key>
+		<string>Anna</string>
+		<key>answer3</key>
+		<string>Audry</string>
+		<key>answer4</key>
+		<string>Agnes</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which country was partitioned by Austria, Russia and Prussia throughout the 1800s?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Poland</string>
+		<key>answer2</key>
+		<string>Romania</string>
+		<key>answer3</key>
+		<string>Holland</string>
+		<key>answer4</key>
+		<string>Finland</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which European country was ruled by Francisco Franco between 1939 and 1975?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Portugal</string>
+		<key>answer2</key>
+		<string>Spain</string>
+		<key>answer3</key>
+		<string>Malta</string>
+		<key>answer4</key>
+		<string>Italy</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which Greek leader created a large empire before he died in 323BC?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Phillip of Macedon</string>
+		<key>answer2</key>
+		<string>Alexander The Great</string>
+		<key>answer3</key>
+		<string>Lysander</string>
+		<key>answer4</key>
+		<string>Leonidas</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What became of Marie Antoinette on 16th October 1793?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>She was divorced</string>
+		<key>answer2</key>
+		<string>She was Beheaded</string>
+		<key>answer3</key>
+		<string>She was pardoned</string>
+		<key>answer4</key>
+		<string>She was deported</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What was the name of the regime in Germany between 1918 and 1933?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>North German Confederation</string>
+		<key>answer2</key>
+		<string>Second German Empire</string>
+		<key>answer3</key>
+		<string>Third Reich</string>
+		<key>answer4</key>
+		<string>Weimar republic</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>From which country did Belgium achieve independence in 1831?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Denmark</string>
+		<key>answer2</key>
+		<string>France</string>
+		<key>answer3</key>
+		<string>Netherlands</string>
+		<key>answer4</key>
+		<string>Luxembourg</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which year did Hitler&apos;s Germany annexe Austria?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>1930</string>
+		<key>answer2</key>
+		<string>1932</string>
+		<key>answer3</key>
+		<string>1936</string>
+		<key>answer4</key>
+		<string>1938</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which field of art is the Italian master Giotto best known?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Painting</string>
+		<key>answer2</key>
+		<string>Sculpture</string>
+		<key>answer3</key>
+		<string>Ballet</string>
+		<key>answer4</key>
+		<string>Architecture</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which city can be found the Ny Carlsberg Glyptotek art museum?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Lisbon</string>
+		<key>answer2</key>
+		<string>Sofia</string>
+		<key>answer3</key>
+		<string>Copenhagen</string>
+		<key>answer4</key>
+		<string>Athens</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>The German physicist Hans Geiger is best remembered as the co-inventor of a device for measuring what?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Temperature</string>
+		<key>answer2</key>
+		<string>Rainfall</string>
+		<key>answer3</key>
+		<string>Radiation</string>
+		<key>answer4</key>
+		<string>Pressure</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>John Logie Baird, the inventor of television, was born in 1888 in which country of the UK?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Wales</string>
+		<key>answer2</key>
+		<string>Northern Ireland</string>
+		<key>answer3</key>
+		<string>England</string>
+		<key>answer4</key>
+		<string>Scotland</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Who invented the hovercraft in 1952?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Igor Sikorsky</string>
+		<key>answer2</key>
+		<string>Christopher Cockerell</string>
+		<key>answer3</key>
+		<string>Barnes Wallis</string>
+		<key>answer4</key>
+		<string>Jacques Cousteau</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>The Gatling gun was invented during which war?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>American Civil War</string>
+		<key>answer2</key>
+		<string>Spanish-American War</string>
+		<key>answer3</key>
+		<string>World War one</string>
+		<key>answer4</key>
+		<string>World War two</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which religious leader was assassinated on 4th April 1968?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Jesse Jackson</string>
+		<key>answer2</key>
+		<string>Martin Luther King</string>
+		<key>answer3</key>
+		<string>Pope Paul</string>
+		<key>answer4</key>
+		<string>Mother Theresa</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What nationality was the 15th &amp; 16th century navigator, Vasco da Gama?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Peruvian</string>
+		<key>answer2</key>
+		<string>Polish</string>
+		<key>answer3</key>
+		<string>Polynesian</string>
+		<key>answer4</key>
+		<string>Portuguese</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What mode of transport did Thor Heyerdahl use to cross the South Pacific in 1947?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Hot air balloon</string>
+		<key>answer2</key>
+		<string>Raft</string>
+		<key>answer3</key>
+		<string>Rubber Dinghy</string>
+		<key>answer4</key>
+		<string>Plane</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which century did the Italian painter, Titian, produce his most famous works?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>13th century</string>
+		<key>answer2</key>
+		<string>16th century</string>
+		<key>answer3</key>
+		<string>18th century</string>
+		<key>answer4</key>
+		<string>19th century</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which two countries fought at the Battle of Agincourt, 1415?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>England and France</string>
+		<key>answer2</key>
+		<string>England and Spain</string>
+		<key>answer3</key>
+		<string>France and Spain</string>
+		<key>answer4</key>
+		<string>France and Prussia</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>When did Marilyn Monroe&apos;s final film &quot;The Misfits&quot; get released?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>1953</string>
+		<key>answer2</key>
+		<string>1955</string>
+		<key>answer3</key>
+		<string>1958</string>
+		<key>answer4</key>
+		<string>1961</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which South American country did the Incas establish their capital?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Peru</string>
+		<key>answer2</key>
+		<string>Chile</string>
+		<key>answer3</key>
+		<string>Colombia</string>
+		<key>answer4</key>
+		<string>Ecuador</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What nationality was the philosopher and mathematician, Pythagoras?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Greek</string>
+		<key>answer2</key>
+		<string>Persian</string>
+		<key>answer3</key>
+		<string>Roman</string>
+		<key>answer4</key>
+		<string>Trojan</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which 51-mile waterway opened to traffic in August 1914?</string>
+		<key>category</key>
+		<string>History</string>
+		<key>answer1</key>
+		<string>Suez Canal</string>
+		<key>answer2</key>
+		<string>Panama Canal</string>
+		<key>answer3</key>
+		<string>St Lawrece Seaway</string>
+		<key>answer4</key>
+		<string>Manchester Ship Canal</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which country would you find the Albert canal?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Belgium</string>
+		<key>answer2</key>
+		<string>Switzerland</string>
+		<key>answer3</key>
+		<string>Austria</string>
+		<key>answer4</key>
+		<string>Netherlands</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which country would you find the Great Sandy Desert? </string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Egypt</string>
+		<key>answer2</key>
+		<string>United States</string>
+		<key>answer3</key>
+		<string>Australia</string>
+		<key>answer4</key>
+		<string>Peru</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which city would you find the Prado art gallery?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Paris</string>
+		<key>answer2</key>
+		<string>Madrid</string>
+		<key>answer3</key>
+		<string>Rome</string>
+		<key>answer4</key>
+		<string>Florence</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which country boarders France, Belgium and Germany?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Slovenia</string>
+		<key>answer2</key>
+		<string>Luxembourg</string>
+		<key>answer3</key>
+		<string>Austria</string>
+		<key>answer4</key>
+		<string>Netherlands</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What is the capital of Vietnam?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Ho Chi Minh City</string>
+		<key>answer2</key>
+		<string>Nha Trang</string>
+		<key>answer3</key>
+		<string>Hanoi</string>
+		<key>answer4</key>
+		<string>Hue</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In 1966 which Italian city was almost destroyed by flood ?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Florence</string>
+		<key>answer2</key>
+		<string>Rome</string>
+		<key>answer3</key>
+		<string>Venice</string>
+		<key>answer4</key>
+		<string>Milan</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which country would you find the bay of pigs? </string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Dominican Republic</string>
+		<key>answer2</key>
+		<string>Haiti</string>
+		<key>answer3</key>
+		<string>Cuba</string>
+		<key>answer4</key>
+		<string>Jamaica</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>The phoenix park can be found in which city? </string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Cork</string>
+		<key>answer2</key>
+		<string>Dublin</string>
+		<key>answer3</key>
+		<string>London</string>
+		<key>answer4</key>
+		<string>Manchester</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What is the capital city of Hungary?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Bratislava</string>
+		<key>answer2</key>
+		<string>Debrecen</string>
+		<key>answer3</key>
+		<string>Bucharest</string>
+		<key>answer4</key>
+		<string>Budapest</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which continent would you find the River Amazon?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>South America</string>
+		<key>answer2</key>
+		<string>Africa</string>
+		<key>answer3</key>
+		<string>Asia</string>
+		<key>answer4</key>
+		<string>Europe</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>To which country do the Canary Islands belong?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Turkey</string>
+		<key>answer2</key>
+		<string>Spain</string>
+		<key>answer3</key>
+		<string>Greece</string>
+		<key>answer4</key>
+		<string>Italy</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What is the capital city of Belgium?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>The Hague</string>
+		<key>answer2</key>
+		<string>Brussels</string>
+		<key>answer3</key>
+		<string>Anderlecht</string>
+		<key>answer4</key>
+		<string>Liège</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Douglas is the captial of which of the following islands?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Isle of Wight</string>
+		<key>answer2</key>
+		<string>Jersey</string>
+		<key>answer3</key>
+		<string>Guernsey</string>
+		<key>answer4</key>
+		<string>Isle of man</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What is the name of the capital city of the Falkland Islands?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Bridgetown</string>
+		<key>answer2</key>
+		<string>Stanley</string>
+		<key>answer3</key>
+		<string>Porto-Novo</string>
+		<key>answer4</key>
+		<string>Caracas</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What is the name of the most southern point on Britain&apos;s mainland?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Land Point</string>
+		<key>answer2</key>
+		<string>Lands End</string>
+		<key>answer3</key>
+		<string>Lizard Point</string>
+		<key>answer4</key>
+		<string>Left Point</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which American state would you find Disneyland?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>California</string>
+		<key>answer2</key>
+		<string>Florida</string>
+		<key>answer3</key>
+		<string>Nevada</string>
+		<key>answer4</key>
+		<string>Ohio</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which of these is an American state that is named after a former American president?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Washington</string>
+		<key>answer2</key>
+		<string>Pittburgh</string>
+		<key>answer3</key>
+		<string>Lincoln</string>
+		<key>answer4</key>
+		<string>Pennsylvania</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which Spanish port on the Mediterranean is only 150km from the French border?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Barcelona</string>
+		<key>answer2</key>
+		<string>Malaga</string>
+		<key>answer3</key>
+		<string>Valencia</string>
+		<key>answer4</key>
+		<string>Alicante</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Orebro is situated at 59?17? North - in which country?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Iceland</string>
+		<key>answer2</key>
+		<string>Latvia</string>
+		<key>answer3</key>
+		<string>Sweden</string>
+		<key>answer4</key>
+		<string>Holland</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>On which river does Pisa stand?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Po</string>
+		<key>answer2</key>
+		<string>Arno</string>
+		<key>answer3</key>
+		<string>Tiber</string>
+		<key>answer4</key>
+		<string>Volturno</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which is the highest mountain in Europe?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Mount Elbrus</string>
+		<key>answer2</key>
+		<string>Matterhorn</string>
+		<key>answer3</key>
+		<string>Eiger</string>
+		<key>answer4</key>
+		<string>Finsteraarhorn</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which monetary unit was used in Portugal before the euro was adopted in 1999?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Dinar</string>
+		<key>answer2</key>
+		<string>Escudo</string>
+		<key>answer3</key>
+		<string>Peso</string>
+		<key>answer4</key>
+		<string>Peseta</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Into which sea does Europe&apos;s longest river flow?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Caspian</string>
+		<key>answer2</key>
+		<string>North</string>
+		<key>answer3</key>
+		<string>Mediterranean</string>
+		<key>answer4</key>
+		<string>Baltic</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Between 1949 and 1990, what was the capital of West Germany?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Bonn</string>
+		<key>answer2</key>
+		<string>Cologne</string>
+		<key>answer3</key>
+		<string>Frankfurt</string>
+		<key>answer4</key>
+		<string>Munich</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which islands are separated by the Strait Of Bonifacio?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Corsica and Sardinia</string>
+		<key>answer2</key>
+		<string>Malta and Sicily</string>
+		<key>answer3</key>
+		<string>Crete and Rhodes</string>
+		<key>answer4</key>
+		<string>Mallorca and Minorca</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which mountain range extends from the Czech Republic to Romania?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Urals</string>
+		<key>answer2</key>
+		<string>Alps</string>
+		<key>answer3</key>
+		<string>Apennines</string>
+		<key>answer4</key>
+		<string>Carpathians</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which major European seaport is located near the mouth of the River Scheldt?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Zeebrugge</string>
+		<key>answer2</key>
+		<string>Rotterdam</string>
+		<key>answer3</key>
+		<string>Hamburg</string>
+		<key>answer4</key>
+		<string>Antwerp</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which Canadian province is Montreal located?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Ontario</string>
+		<key>answer2</key>
+		<string>Quebec</string>
+		<key>answer3</key>
+		<string>Ontario</string>
+		<key>answer4</key>
+		<string>Nova Scotia</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>hich of the United States is situated north of 50 degrees latitude?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Cleveland</string>
+		<key>answer2</key>
+		<string>Chicago</string>
+		<key>answer3</key>
+		<string>Charlotte</string>
+		<key>answer4</key>
+		<string>Cincinnati</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which Illinois city has the third largest population in the USA?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Charlotte</string>
+		<key>answer2</key>
+		<string>Chicago</string>
+		<key>answer3</key>
+		<string>Cleveland</string>
+		<key>answer4</key>
+		<string>Cincinnati</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which American state is the Everglades National Park?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Georgia</string>
+		<key>answer2</key>
+		<string>Florida</string>
+		<key>answer3</key>
+		<string>Texas</string>
+		<key>answer4</key>
+		<string>North Carolina</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Toronto is on the shore of which Great Lake?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Superior</string>
+		<key>answer2</key>
+		<string>Michigan</string>
+		<key>answer3</key>
+		<string>Ontario</string>
+		<key>answer4</key>
+		<string>Huron</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which area of the USA are the states of Vermont and Massachusetts located?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>New England</string>
+		<key>answer2</key>
+		<string>Mid West</string>
+		<key>answer3</key>
+		<string>Pacific Coast</string>
+		<key>answer4</key>
+		<string>Rocky Mountains</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Apart from Alaska, which of the United States has the largest area?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>California</string>
+		<key>answer2</key>
+		<string>Texas</string>
+		<key>answer3</key>
+		<string>Ohio</string>
+		<key>answer4</key>
+		<string>Wycoming</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Of which river is the River Ohio a major tributary?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Rio Grande</string>
+		<key>answer2</key>
+		<string>Mississippi</string>
+		<key>answer3</key>
+		<string>Missouri</string>
+		<key>answer4</key>
+		<string>Hudson</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What is located immediately due east of Canada&apos;s Baffin Island?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Greenland</string>
+		<key>answer2</key>
+		<string>USA</string>
+		<key>answer3</key>
+		<string>Iceland</string>
+		<key>answer4</key>
+		<string>Mexico</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which desert occupies a large area in Northern Africa?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Sahara</string>
+		<key>answer2</key>
+		<string>Gobi</string>
+		<key>answer3</key>
+		<string>Kalahari</string>
+		<key>answer4</key>
+		<string>Atacama</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which significant line of latitude passes through Kenya?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Arctic Circle</string>
+		<key>answer2</key>
+		<string>Tropic of Cancer</string>
+		<key>answer3</key>
+		<string>Tropic of Capricorn</string>
+		<key>answer4</key>
+		<string>Equator</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which country is situated immediately to the east of Libya?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Egypt</string>
+		<key>answer2</key>
+		<string>Nigeria</string>
+		<key>answer3</key>
+		<string>Zambia</string>
+		<key>answer4</key>
+		<string>Tanzania</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What is the capital city of Algeria?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Algiers</string>
+		<key>answer2</key>
+		<string>Accra</string>
+		<key>answer3</key>
+		<string>Tripoli</string>
+		<key>answer4</key>
+		<string>Casablanca</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which country can the city of Durban be found?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Ghana</string>
+		<key>answer2</key>
+		<string>Uganda</string>
+		<key>answer3</key>
+		<string>South Africa</string>
+		<key>answer4</key>
+		<string>Zimbabwe</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which major river flows north through Africa and empties in the Mediterranean Sea?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Nile</string>
+		<key>answer2</key>
+		<string>Volga</string>
+		<key>answer3</key>
+		<string>Tigris</string>
+		<key>answer4</key>
+		<string>Tagus</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which large island is separated from mainland Africa by the Mozambique Channel?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Madagascar</string>
+		<key>answer2</key>
+		<string>St Helena</string>
+		<key>answer3</key>
+		<string>Sicily</string>
+		<key>answer4</key>
+		<string>Cyprus</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What is the official language of Libya?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>English</string>
+		<key>answer2</key>
+		<string>Arabic</string>
+		<key>answer3</key>
+		<string>Spanish</string>
+		<key>answer4</key>
+		<string>Portuguese</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which West African country had a population of over 130 million in 2005?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Nigeria</string>
+		<key>answer2</key>
+		<string>Swailand</string>
+		<key>answer3</key>
+		<string>Niger</string>
+		<key>answer4</key>
+		<string>Nambia</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which ocean are the Seychelles located?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Arctic Ocean</string>
+		<key>answer2</key>
+		<string>Indian Ocean</string>
+		<key>answer3</key>
+		<string>Pacific Ocean</string>
+		<key>answer4</key>
+		<string>Atlantic Ocean</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>At which geographic point can the continent of Antarctica be found?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>South Pole</string>
+		<key>answer2</key>
+		<string>North Pole </string>
+		<key>answer3</key>
+		<string>Tropic of Cancer</string>
+		<key>answer4</key>
+		<string>Tropic of Capricorn</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Drake Passage is found between Antarctica and which major landmass?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Africa</string>
+		<key>answer2</key>
+		<string>Australia</string>
+		<key>answer3</key>
+		<string>South America</string>
+		<key>answer4</key>
+		<string>India</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which month are Antarctica&apos;s lowest temperatures normally recorded?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>August</string>
+		<key>answer2</key>
+		<string>April</string>
+		<key>answer3</key>
+		<string>December</string>
+		<key>answer4</key>
+		<string>February</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which explorer was the first to reach the geographic South Pole in 1911?</string>
+		<key>category</key>
+		<string>Geography</string>
+		<key>answer1</key>
+		<string>Roald Armundsen</string>
+		<key>answer2</key>
+		<string>Thor Heyerdahl</string>
+		<key>answer3</key>
+		<string>James Cook</string>
+		<key>answer4</key>
+		<string>Fridtjof Nansen</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What is Indiana Jones&apos;s profession?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Palientologist</string>
+		<key>answer2</key>
+		<string>Archaeologist</string>
+		<key>answer3</key>
+		<string>Bounty Hunter</string>
+		<key>answer4</key>
+		<string>Librarian</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In the movie &apos;Toy Story&apos; what is the name of the next door neighbor that the toys fear?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Rex</string>
+		<key>answer2</key>
+		<string>Sid</string>
+		<key>answer3</key>
+		<string>Hamm</string>
+		<key>answer4</key>
+		<string>George</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Henry Hill’s character in the movie &apos;Goodfellas&apos; had which job as a teenager that gets him involved with the mob?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Delivering groceries</string>
+		<key>answer2</key>
+		<string>Selling newspapers</string>
+		<key>answer3</key>
+		<string> Parking cars</string>
+		<key>answer4</key>
+		<string>Delivering mail</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string> “The first casualty of war is innocence” is the tagline from which Vietnam movie?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Apocalypse Now</string>
+		<key>answer2</key>
+		<string>Platoon</string>
+		<key>answer3</key>
+		<string>We were Soldiers</string>
+		<key>answer4</key>
+		<string>Forest Gump</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Hannibal Lecter likes to enjoy which type of beans with a chianti?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Navy</string>
+		<key>answer2</key>
+		<string>Fava</string>
+		<key>answer3</key>
+		<string>Lima</string>
+		<key>answer4</key>
+		<string>Kidney</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string> “Yeah, no one liked me. Mountain boys all thought I was gonna shoot ‘em out of pure meanness” Is a quote from which &apos;Unforgiven&apos; character?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Will Munny</string>
+		<key>answer2</key>
+		<string>Ned Logan</string>
+		<key>answer3</key>
+		<string>English Bob</string>
+		<key>answer4</key>
+		<string>Little Bill Daggett</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Indiana Jones hates which creature?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Scorpions</string>
+		<key>answer2</key>
+		<string>Snakes</string>
+		<key>answer3</key>
+		<string>Spiders</string>
+		<key>answer4</key>
+		<string>Cockroaches</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which frozen animal does Rocky Balboa punch the side of as part of his training?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Horse</string>
+		<key>answer2</key>
+		<string>Bison</string>
+		<key>answer3</key>
+		<string>Cow</string>
+		<key>answer4</key>
+		<string>Pig</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>The famous quote “In a good shoe, I wear a size six, but a seven feels so good, I buy a size eight” can be found in?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Pretty Woman</string>
+		<key>answer2</key>
+		<string>How to make an American Quilt</string>
+		<key>answer3</key>
+		<string>Steel Magnolias</string>
+		<key>answer4</key>
+		<string>Sliding Doors</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which of the seven dwarves in the 1937 version of &apos;Snow White&apos; doesn;t speak during the entire movie?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Happy</string>
+		<key>answer2</key>
+		<string>Dopey</string>
+		<key>answer3</key>
+		<string>Sleepy</string>
+		<key>answer4</key>
+		<string>Grumpy</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In the movie “Sideways,” Miles (Paul Giamatti) had what profession?	</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Writer</string>
+		<key>answer2</key>
+		<string>Artist</string>
+		<key>answer3</key>
+		<string>Basketball Coach</string>
+		<key>answer4</key>
+		<string>Editor</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In the movie &apos;ET&apos; elliot uses what type of candy to persuade ET to come into his room?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>M&amp;M&apos;s</string>
+		<key>answer2</key>
+		<string>Reese&apos;s Pieces</string>
+		<key>answer3</key>
+		<string>Mini Gems</string>
+		<key>answer4</key>
+		<string>Rolos&apos;s</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What is the cardinal direction used when referring to the witch that wants Dorothy’s ruby slippers?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>North</string>
+		<key>answer2</key>
+		<string>East</string>
+		<key>answer3</key>
+		<string>South</string>
+		<key>answer4</key>
+		<string>West</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>To save the village of Santo Poco the &apos;Three Amigos&apos; are hired to fight against who?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>El Guapo</string>
+		<key>answer2</key>
+		<string>El Salvador</string>
+		<key>answer3</key>
+		<string>El Mariachi</string>
+		<key>answer4</key>
+		<string>El Diablo</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In “As Good as it Gets,” what does Jack Nicholson’s character throw down the garbage chute?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>A cigarette</string>
+		<key>answer2</key>
+		<string>Mobile Phone</string>
+		<key>answer3</key>
+		<string>Neighbor&apos;s dog</string>
+		<key>answer4</key>
+		<string>Medication</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>To which Sonny and Cher song does Phil Connors keep waking up in Punxsutawney, PA?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>The Beat Goes On</string>
+		<key>answer2</key>
+		<string>Laugh At Me</string>
+		<key>answer3</key>
+		<string>But You&apos;re Mine</string>
+		<key>answer4</key>
+		<string>I Got You Babe</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What animal is associated with Han Solo’s “Millenium” ship?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Falcon</string>
+		<key>answer2</key>
+		<string>Hawk</string>
+		<key>answer3</key>
+		<string>Dragon fly</string>
+		<key>answer4</key>
+		<string>Eagle</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Who is the last man on the astroid in the movie “Armageddon?”</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Ben Affleck</string>
+		<key>answer2</key>
+		<string>Bruce Willis</string>
+		<key>answer3</key>
+		<string>Owen Wilson</string>
+		<key>answer4</key>
+		<string>Billy Bob Thornton</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What is the meaning of the phrase, “Hakuna Matata?”</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>No Worries</string>
+		<key>answer2</key>
+		<string>Happy Days</string>
+		<key>answer3</key>
+		<string>This is Africa</string>
+		<key>answer4</key>
+		<string>Watch your back</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which of Forrest Gump’s body parts gets shot in Vietnam?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Shoulder</string>
+		<key>answer2</key>
+		<string>Earlobe</string>
+		<key>answer3</key>
+		<string>Hand</string>
+		<key>answer4</key>
+		<string>Buttock</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In Friends &apos;The one with the list&apos;, what does Ross say about Julie?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>She&apos;s not Rachel</string>
+		<key>answer2</key>
+		<string>She&apos;s not Rachem</string>
+		<key>answer3</key>
+		<string>She&apos;s Chinese</string>
+		<key>answer4</key>
+		<string>Sh&apos;e not a waitress</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In &apos;Friends&apos; How quick did Joey say he can drink a gallon of milk?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>10 seconds</string>
+		<key>answer2</key>
+		<string>20 seconds</string>
+		<key>answer3</key>
+		<string>45 seconds</string>
+		<key>answer4</key>
+		<string>2 minutes</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>in &apos;Friends&apos;What is nailed to a piece of wood for the Gellar cup?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Troll</string>
+		<key>answer2</key>
+		<string>Ferbie</string>
+		<key>answer3</key>
+		<string>Action man</string>
+		<key>answer4</key>
+		<string>Barbie doll</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In &apos;Friends&apos; Which book did Joey keep in the freezer?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Dracula</string>
+		<key>answer2</key>
+		<string>Misery</string>
+		<key>answer3</key>
+		<string>The Shinning</string>
+		<key>answer4</key>
+		<string>Cujo</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>How much money does the paperboy demand in Better Off Dead?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>$1</string>
+		<key>answer2</key>
+		<string>$2</string>
+		<key>answer3</key>
+		<string>$7</string>
+		<key>answer4</key>
+		<string>$6</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Famous phrase “Your mom goes to college” is from which?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Good Will Hunting</string>
+		<key>answer2</key>
+		<string>Napoleon Dynamite</string>
+		<key>answer3</key>
+		<string>Old Skool</string>
+		<key>answer4</key>
+		<string>The Graduate</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What was the name of the youngest child in ‘The Sound Of Music’?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Gretl</string>
+		<key>answer2</key>
+		<string>Rosie</string>
+		<key>answer3</key>
+		<string>Thelma</string>
+		<key>answer4</key>
+		<string>Star</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What does ITV stand for?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>International Television Vision</string>
+		<key>answer2</key>
+		<string>Independant Television </string>
+		<key>answer3</key>
+		<string>International Television</string>
+		<key>answer4</key>
+		<string>IT Vision</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What is the nickname of Springfield&apos;s Mayor Quimby?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Big Joe</string>
+		<key>answer2</key>
+		<string>Fat Joe</string>
+		<key>answer3</key>
+		<string>Diamond Joe</string>
+		<key>answer4</key>
+		<string>Little Smith</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>The 2008 film The Curious Case of Benjamin Button is based on the short story by which author?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>F Scott Fitzgerald</string>
+		<key>answer2</key>
+		<string>Roald Dahl</string>
+		<key>answer3</key>
+		<string>Daphne du Maurier</string>
+		<key>answer4</key>
+		<string>Isaac Asimov</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Who played the title role in Scrooge, the 1951 film version of Dickens&apos; A Christmas Carol?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Alec Guinness</string>
+		<key>answer2</key>
+		<string>Hue Laurie</string>
+		<key>answer3</key>
+		<string>Robert Newton</string>
+		<key>answer4</key>
+		<string>Alastair Sim</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In Steven Spielberg&apos;s 2005 adaptation of H G Wells&apos; The War of the Worlds, the action is switched from Woking in Surrey to which US state?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>New Jersey</string>
+		<key>answer2</key>
+		<string>New York</string>
+		<key>answer3</key>
+		<string>New Mexico</string>
+		<key>answer4</key>
+		<string>LA</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Who plays the airport manager in the 1970 film Airport?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>George Kennedy</string>
+		<key>answer2</key>
+		<string>Burt Lancaster</string>
+		<key>answer3</key>
+		<string>Dean Martin</string>
+		<key>answer4</key>
+		<string>Lloyd Nolan</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Who plays the son of Dennis Quaid&apos;s character in the 2004 film The Day After Tomorrow?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Heath Ledger</string>
+		<key>answer2</key>
+		<string>Tom Hardy</string>
+		<key>answer3</key>
+		<string>Jake Gyllenhaal</string>
+		<key>answer4</key>
+		<string>Owen Wilson</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In the 1972 film The Poseidon Adventure, the doomed liner is on its final voyage from New York to where?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Singapore</string>
+		<key>answer2</key>
+		<string>Cape Town</string>
+		<key>answer3</key>
+		<string>Hanoi</string>
+		<key>answer4</key>
+		<string>Athens</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What type of natural disaster features in the 1996 film Twister?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Flood</string>
+		<key>answer2</key>
+		<string>Tornado</string>
+		<key>answer3</key>
+		<string>Monsoon</string>
+		<key>answer4</key>
+		<string>Earthquake</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What type of transport features in the 1976 film The Cassandra Crossing?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Plane</string>
+		<key>answer2</key>
+		<string>Train</string>
+		<key>answer3</key>
+		<string>Van</string>
+		<key>answer4</key>
+		<string>Ship</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Who stars in the 2006 film Snakes on a Plane?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Eddie Murphey</string>
+		<key>answer2</key>
+		<string>WIll Smith</string>
+		<key>answer3</key>
+		<string>Samuel L Jackson</string>
+		<key>answer4</key>
+		<string>Martin Lawrence</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>he 1993 film Alive features a crash in the Andes involving a rugby team from which country?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Uraguay</string>
+		<key>answer2</key>
+		<string>Chile</string>
+		<key>answer3</key>
+		<string>Argentina</string>
+		<key>answer4</key>
+		<string>Brazil</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What is the nickname of the co-driver played by John Beck in the 1976 film The Big Bus?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Fingers</string>
+		<key>answer2</key>
+		<string>Slammer</string>
+		<key>answer3</key>
+		<string>Knuckles</string>
+		<key>answer4</key>
+		<string>Shoulders</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Who plays Grendel&apos;s mother in the 2007 film Beowulf?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Cameron Diaz</string>
+		<key>answer2</key>
+		<string>Angelina Jolie</string>
+		<key>answer3</key>
+		<string>Uma Thurman</string>
+		<key>answer4</key>
+		<string>Kate Winslet</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which fairy tale provided the title of the 1952 Abbot and Costello film?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Cinderella</string>
+		<key>answer2</key>
+		<string>Little Red Riding Hood</string>
+		<key>answer3</key>
+		<string>Jack and the Beanstalk</string>
+		<key>answer4</key>
+		<string>Beauty and the Beast</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>The 2007 film The Golden Compass is based on which Philip Pullman novel?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>The Amber Spyglass</string>
+		<key>answer2</key>
+		<string>Northern Lights</string>
+		<key>answer3</key>
+		<string>The Subtle Knife</string>
+		<key>answer4</key>
+		<string>The book of Dust</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Who directed the 1990 film Edward Scissorhands?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Chris Columbus</string>
+		<key>answer2</key>
+		<string>Paul Verhoeven</string>
+		<key>answer3</key>
+		<string>Jerry Zucker</string>
+		<key>answer4</key>
+		<string>Tim Burton</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>John Cleese plays which legendary figure in the 1981 film Time Bandits?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Robin Hood</string>
+		<key>answer2</key>
+		<string>King Arthur</string>
+		<key>answer3</key>
+		<string>Tom Thumb</string>
+		<key>answer4</key>
+		<string>Spring Heeled Jack</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What is the title of the comedy horror film starring Woody Harrelson </string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Zombieville</string>
+		<key>answer2</key>
+		<string>Zombieland</string>
+		<key>answer3</key>
+		<string>Zombiezone</string>
+		<key>answer4</key>
+		<string>Zombiefest</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In Friends Who plays the male stripper at Phoebe&apos;s bachelorette party in &apos;The One Where The Stripper Cries?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Charlie Sheen</string>
+		<key>answer2</key>
+		<string>Danny Devito</string>
+		<key>answer3</key>
+		<string>Brad Pitt</string>
+		<key>answer4</key>
+		<string>Billy Crystal</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>in Friends What is the first name of Chandler&apos;s drag queen father?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Edward</string>
+		<key>answer2</key>
+		<string>Jamie</string>
+		<key>answer3</key>
+		<string>James</string>
+		<key>answer4</key>
+		<string>Charles</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In Friends Which character has a soft toy penguin called Mr Hugsy?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Monica</string>
+		<key>answer2</key>
+		<string>Rachel</string>
+		<key>answer3</key>
+		<string>Joey</string>
+		<key>answer4</key>
+		<string>Roass</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Whom did Jennifer Aniston marry in 2000?</string>
+		<key>category</key>
+		<string>Film/TV</string>
+		<key>answer1</key>
+		<string>Vince Vaughan</string>
+		<key>answer2</key>
+		<string>John Mayer</string>
+		<key>answer3</key>
+		<string>Brad Pitt</string>
+		<key>answer4</key>
+		<string>Matt Damon</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which pop band was fronted by Freddie Mercury?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>ELO</string>
+		<key>answer2</key>
+		<string>Queen</string>
+		<key>answer3</key>
+		<string>Roxy Music</string>
+		<key>answer4</key>
+		<string>Thin Lizzy</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Posh, Scary, Sporty, Ginger and Baby were known collectively as which pop group?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Bananarama</string>
+		<key>answer2</key>
+		<string>East 17</string>
+		<key>answer3</key>
+		<string>Proclaimers</string>
+		<key>answer4</key>
+		<string>Spice Girls</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Born as Harry Webb, who became known as the &quot;Peter Pan of Pop&quot;?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Boyzone</string>
+		<key>answer2</key>
+		<string>U2</string>
+		<key>answer3</key>
+		<string>Westlife</string>
+		<key>answer4</key>
+		<string>Busted</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which Irish pop band released the album &quot;The Joshua Tree&quot; in 1987?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Boyzone</string>
+		<key>answer2</key>
+		<string>Westlife</string>
+		<key>answer3</key>
+		<string>U2</string>
+		<key>answer4</key>
+		<string>Backstreet boys</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>&quot;I Predict A Riot&quot; was a hit in 2005 for which pop band?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>The Killers</string>
+		<key>answer2</key>
+		<string>Kaiser Chiefs</string>
+		<key>answer3</key>
+		<string>Bangles</string>
+		<key>answer4</key>
+		<string>The Kooks</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which major pop star was once an actress in the soap &quot;Neighbours&quot;?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Celine Dion</string>
+		<key>answer2</key>
+		<string>Adele</string>
+		<key>answer3</key>
+		<string>Kylie Minogue</string>
+		<key>answer4</key>
+		<string>Madonna</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which enormous pop music event took place in the summer of 2006?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Live 8</string>
+		<key>answer2</key>
+		<string>Live Aid</string>
+		<key>answer3</key>
+		<string>Monterrey Pop</string>
+		<key>answer4</key>
+		<string>Woodstock</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which pop singer had major hits with the singles &quot;Billie Jean&quot; and &quot;Thriller&quot;?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Michael Jackson</string>
+		<key>answer2</key>
+		<string>Lionel Richie</string>
+		<key>answer3</key>
+		<string>Junior Marvin</string>
+		<key>answer4</key>
+		<string>James Brown</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Joe Strummer, Mick Jones, Topper Headon and Paul Simenon were which pop band?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>The Clash</string>
+		<key>answer2</key>
+		<string>The Beatles</string>
+		<key>answer3</key>
+		<string>The Rolling Stones</string>
+		<key>answer4</key>
+		<string>The Who</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Four-fifths of which pop band launched a comeback tour in 2006?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Spice Girls</string>
+		<key>answer2</key>
+		<string>Take That</string>
+		<key>answer3</key>
+		<string>Boyzone</string>
+		<key>answer4</key>
+		<string>Back Street Boys</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which all-girl pop band came to prominence in 2002&apos;s &quot;Popstars : The Rivals&quot;?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Girls Allowed</string>
+		<key>answer2</key>
+		<string>Girls Aloud</string>
+		<key>answer3</key>
+		<string>Girls loud </string>
+		<key>answer4</key>
+		<string>Loud Girls</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What nationality is record-breaking pop performer Bryan Adams?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>American</string>
+		<key>answer2</key>
+		<string>English</string>
+		<key>answer3</key>
+		<string>Canadian</string>
+		<key>answer4</key>
+		<string>Welsh</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which American pop band had a success with the single &quot;American Idiot&quot;?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Green Day</string>
+		<key>answer2</key>
+		<string>Panic at the Disco</string>
+		<key>answer3</key>
+		<string>Blue Monday</string>
+		<key>answer4</key>
+		<string>Fall out Boy</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which pop superstar&apos;s real name is David Jones?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Craig David</string>
+		<key>answer2</key>
+		<string>David Hasselhoff</string>
+		<key>answer3</key>
+		<string>David Bowie</string>
+		<key>answer4</key>
+		<string>David Jones</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which American city did the Tamla Motown pop music label begin?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Denver</string>
+		<key>answer2</key>
+		<string>Detroit</string>
+		<key>answer3</key>
+		<string>Los Angeles</string>
+		<key>answer4</key>
+		<string>San Diego</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>With which pop group did Ronnie Lane record &quot;Tin Soldier&quot;?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Faces</string>
+		<key>answer2</key>
+		<string>Ronnie Lane and the crew</string>
+		<key>answer3</key>
+		<string>Small Faces</string>
+		<key>answer4</key>
+		<string>Slim Roots</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which was Robbie Williams&apos; first top ten solo pop single?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Angels</string>
+		<key>answer2</key>
+		<string>Freedom</string>
+		<key>answer3</key>
+		<string>Radio</string>
+		<key>answer4</key>
+		<string>Love forever</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>With which Australian pop group are the Farriss brothers associated?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Men at work</string>
+		<key>answer2</key>
+		<string>Pendulum</string>
+		<key>answer3</key>
+		<string>Inxs</string>
+		<key>answer4</key>
+		<string>Midnight Oil</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which pair of chart-toppers did pop singer Madonna have in 1987?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Holiday and into the groove</string>
+		<key>answer2</key>
+		<string>La Isla Bonita and the Who&apos;s that girl</string>
+		<key>answer3</key>
+		<string>Like a prayer</string>
+		<key>answer4</key>
+		<string>Papa don&apos;t preach and True Blue</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which member of pop group Pink Floyd released the album &quot;On An Island&quot; in 2006?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Nick Mason</string>
+		<key>answer2</key>
+		<string>David Gilmour</string>
+		<key>answer3</key>
+		<string>Roger Walters</string>
+		<key>answer4</key>
+		<string>Richard Wright</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>With which American rock group did Gene Simmons play?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Kiss</string>
+		<key>answer2</key>
+		<string>Guns N&apos; Roses</string>
+		<key>answer3</key>
+		<string>Ramones</string>
+		<key>answer4</key>
+		<string>Blue Oyster Cult</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which pop group was fronted by Richard Ashcroft?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>The Verve</string>
+		<key>answer2</key>
+		<string>The Who</string>
+		<key>answer3</key>
+		<string>Radiohead</string>
+		<key>answer4</key>
+		<string>Pulp</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which pop group took &quot;Come And Get It&quot; into the top ten in 1970?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Badfinger</string>
+		<key>answer2</key>
+		<string>Christie</string>
+		<key>answer3</key>
+		<string>White Plains</string>
+		<key>answer4</key>
+		<string>Edison Lighthouse</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which act topped the charts with &quot;Setting Sun&quot; in 1996?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Pendulum</string>
+		<key>answer2</key>
+		<string>Prodigy</string>
+		<key>answer3</key>
+		<string>Chemical Brothers</string>
+		<key>answer4</key>
+		<string>Orbital</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which American pop singer had hits with &quot;Runaway&quot; and &quot;Swiss Maid&quot;?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Bobby Vee</string>
+		<key>answer2</key>
+		<string>Freddy Cannon</string>
+		<key>answer3</key>
+		<string>Del Shannon</string>
+		<key>answer4</key>
+		<string>Johnny Walters</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which pop group had a 1992 hit with &quot;Deeply Dippy&quot;?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>The Kinks</string>
+		<key>answer2</key>
+		<string>The who</string>
+		<key>answer3</key>
+		<string>The Troggs</string>
+		<key>answer4</key>
+		<string>The Tremeloes</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which pop group were formerly known as &quot;The High Numbers&quot;?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Blur</string>
+		<key>answer2</key>
+		<string>Gomez</string>
+		<key>answer3</key>
+		<string>Oasis</string>
+		<key>answer4</key>
+		<string>Stereophonics</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which pop group sang about a &quot;Teenage Dirtbag&quot;?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Sum 41</string>
+		<key>answer2</key>
+		<string>Panic at the Disco</string>
+		<key>answer3</key>
+		<string>Wheatus</string>
+		<key>answer4</key>
+		<string>Linkin Park</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which was American pop singer Cyndi Lauper&apos;s first British chart hit?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Heart of Glass</string>
+		<key>answer2</key>
+		<string>Girls Just Want To Have fun</string>
+		<key>answer3</key>
+		<string>Time after Time</string>
+		<key>answer4</key>
+		<string>True Colours</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which album by pop band Status Quo included the track &quot;Break The Rules&quot;?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Hello</string>
+		<key>answer2</key>
+		<string>Quo</string>
+		<key>answer3</key>
+		<string>On the Level</string>
+		<key>answer4</key>
+		<string>Over the river</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>With which pop group did singer Jimmy Somerville first make his name?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Soft Cell</string>
+		<key>answer2</key>
+		<string>Bronski Beat</string>
+		<key>answer3</key>
+		<string>Tubeway Army</string>
+		<key>answer4</key>
+		<string>Communards</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which year did Enya&apos;s &quot;Orinoco Flow&quot; hit the pop music charts?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>1988</string>
+		<key>answer2</key>
+		<string>1987</string>
+		<key>answer3</key>
+		<string>1986</string>
+		<key>answer4</key>
+		<string>1992</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which pop song by Adam And The Ants topped the charts on 9th May 1981?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Goody Two Shoes</string>
+		<key>answer2</key>
+		<string>Kings of the Wild Frontier</string>
+		<key>answer3</key>
+		<string>Stand and Deliver</string>
+		<key>answer4</key>
+		<string>Move over</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which country was pop singer Eddie Cochran killed in a car crash?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>UK</string>
+		<key>answer2</key>
+		<string>USA</string>
+		<key>answer3</key>
+		<string>Germany</string>
+		<key>answer4</key>
+		<string>Belgium</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>From which country does Samba music originate?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Brazil</string>
+		<key>answer2</key>
+		<string>Spain</string>
+		<key>answer3</key>
+		<string>Mexico</string>
+		<key>answer4</key>
+		<string>Cuba</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What is the &quot;Gay Gordons&quot;?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Brand of Gin</string>
+		<key>answer2</key>
+		<string>British Army Regiment</string>
+		<key>answer3</key>
+		<string>Soho NightClub</string>
+		<key>answer4</key>
+		<string>Ceilidh Dance Music</string>
+		<key>correctAnswer</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>&quot;Orpheus In The Underworld&quot; included which famous dance music?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Bolero</string>
+		<key>answer2</key>
+		<string>Bossa Nova</string>
+		<key>answer3</key>
+		<string>Can-Can</string>
+		<key>answer4</key>
+		<string>Charleston</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>When did Ravel write his one-movement orchestral piece &quot;Bolero&quot;?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>1962</string>
+		<key>answer2</key>
+		<string>1928</string>
+		<key>answer3</key>
+		<string>1948</string>
+		<key>answer4</key>
+		<string>1930</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>What timing is used in Foxtrot dance music?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>3/4</string>
+		<key>answer2</key>
+		<string>4/8</string>
+		<key>answer3</key>
+		<string>4/4</string>
+		<key>answer4</key>
+		<string>6/8</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>In which city did Tango dance music originate?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Havana</string>
+		<key>answer2</key>
+		<string>Buenos Aires</string>
+		<key>answer3</key>
+		<string>Rio de Janeiro</string>
+		<key>answer4</key>
+		<string>Montevideo</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which dance music has a distinctive 1-2-3, 1-2-3 feel and rhythm pattern?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Waltz</string>
+		<key>answer2</key>
+		<string>Tango</string>
+		<key>answer3</key>
+		<string>Rumba</string>
+		<key>answer4</key>
+		<string>Foxtrot</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Salsa music was popularised by Cuban &amp; Puerto Rican exiles in which city?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Housten</string>
+		<key>answer2</key>
+		<string>New York</string>
+		<key>answer3</key>
+		<string>Denver</string>
+		<key>answer4</key>
+		<string>Los Angeles</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>George Gershwin&apos;s overture &quot;Rumba&quot; was re-named as what?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Cuban Overture</string>
+		<key>answer2</key>
+		<string>Jamaican Overture</string>
+		<key>answer3</key>
+		<string>Mexican Overture</string>
+		<key>answer4</key>
+		<string>African Overture</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>During which Eurovision Song Contest was &quot;Riverdance&quot; first performed?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>1988</string>
+		<key>answer2</key>
+		<string>1996</string>
+		<key>answer3</key>
+		<string>1994</string>
+		<key>answer4</key>
+		<string>2003</string>
+		<key>correctAnswer</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which Live 8 pop performer had hits with &quot;Into The Groove&quot; and &quot;Like A Virgin&quot;?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Madonna</string>
+		<key>answer2</key>
+		<string>Paul McCartney</string>
+		<key>answer3</key>
+		<string>Robbie Williams</string>
+		<key>answer4</key>
+		<string>Elton John</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which reggae music legend was backed by The Wailers?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Bob Marley</string>
+		<key>answer2</key>
+		<string>Johnny Nash</string>
+		<key>answer3</key>
+		<string>Jimmy Cliff</string>
+		<key>answer4</key>
+		<string>Desmond Dekker</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>With which song did Hot Chocolate have a major pop hit in November 1975?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>You Sexy Thing</string>
+		<key>answer2</key>
+		<string>You Nasty Thing</string>
+		<key>answer3</key>
+		<string>You Sassy Thing</string>
+		<key>answer4</key>
+		<string>That thing</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which pop group from the West Midlands is best known for a Christmas-themed single?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>Slade</string>
+		<key>answer2</key>
+		<string>Elo</string>
+		<key>answer3</key>
+		<string>The Moody Blues</string>
+		<key>answer4</key>
+		<string>The Move</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which enduring pop band memorably recorded &quot;Satisfaction&quot; in 1965?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>The Rolling Stones</string>
+		<key>answer2</key>
+		<string>The Who</string>
+		<key>answer3</key>
+		<string>The Beatles</string>
+		<key>answer4</key>
+		<string>Status Quo</string>
+		<key>correctAnswer</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questionItself</key>
+		<string>Which pop group, led by Justin Hawkins, originated in Lowestoft?</string>
+		<key>category</key>
+		<string>Music</string>
+		<key>answer1</key>
+		<string>The Brightness</string>
+		<key>answer2</key>
+		<string>The Darkness</string>
+		<key>answer3</key>
+		<string>The Raid</string>
+		<key>answer4</key>
+		<string>The Shade</string>
+		<key>correctAnswer</key>
+		<integer>2</integer>
+	</dict>
+</array>
+</plist>
